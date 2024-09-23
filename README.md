@@ -1,6 +1,6 @@
 <h1 align="center">Hai 👋, saya Shofa Zahrotul Aulia</h1>
 <h3 align="center">Mahasiswa IT di Universitas Negeri Padang.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshofa&label=Profile%20views&color=0e75b6&style=flat" alt="imshofa" /> </p>
 
